@@ -3,6 +3,12 @@
 ### Description
 I've developed a Flutter-based shopping list app that enables users to efficiently manage their grocery shopping. It offers the ability to add purchased groceries and remove items as they are consumed or no longer needed. The app focuses on simplicity and convenience, making grocery management easy and organized. 
 
+### Features
+
+*Grocery Categories*: Organize items by categories such as fruits, vegetables, dairy, etc., making it easier for users to sort their shopping lists.
+*Quantity and Unit Input*: Allow users to specify the quantity of each grocery item.
+
+
 #### HomeScreen
 <img src="https://github.com/user-attachments/assets/10e5a26a-1bab-4bf8-be3d-4fd140e75553" alt="img 1" width="200"/>
 <img src="https://github.com/user-attachments/assets/e2e0074f-8dcd-43e7-ae5b-40226506c44e" alt="img 2" width="200"/>
