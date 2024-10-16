@@ -5,9 +5,13 @@ I've developed a Flutter-based shopping list app that enables users to efficient
 
 ### Features
 
-##### *Grocery Categories*: Organize items by categories such as fruits, vegetables, dairy, etc., making it easier for users to sort their shopping lists.
-##### *Quantity and Unit Input*: Allow users to specify the quantity of each grocery item.
+**Grocery Categories**: Organize items by categories such as fruits, vegetables, dairy, etc., making it easier for users to sort their shopping lists.
+**Quantity and Unit Input**: Allow users to specify the quantity of each grocery item.
 
+### Technologies Used
+**Flutter**: A The core framework for building the cross-platform application, enabling native performance on both Android and iOS devices.
+**Riverpod**: Additional libraries for advanced state management.
+**Firebase Realtime Database**: For cloud-based real-time syncing of shopping lists across devices.
 
 #### HomeScreen
 <img src="https://github.com/user-attachments/assets/10e5a26a-1bab-4bf8-be3d-4fd140e75553" alt="img 1" width="200"/>
