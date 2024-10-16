@@ -11,7 +11,6 @@ I've developed a Flutter-based shopping list app that enables users to efficient
 ### Technologies Used
 **Flutter**: A The core framework for building the cross-platform application, enabling native performance on both Android and iOS devices.
 **Riverpod**: Additional libraries for advanced state management.
-
 **Firebase Realtime Database**: For cloud-based real-time syncing of shopping lists across devices.
 
 #### HomeScreen
