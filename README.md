@@ -5,8 +5,8 @@ I've developed a Flutter-based shopping list app that enables users to efficient
 
 ### Features
 
-*Grocery Categories*: Organize items by categories such as fruits, vegetables, dairy, etc., making it easier for users to sort their shopping lists.
-*Quantity and Unit Input*: Allow users to specify the quantity of each grocery item.
+##### *Grocery Categories*: Organize items by categories such as fruits, vegetables, dairy, etc., making it easier for users to sort their shopping lists.
+##### *Quantity and Unit Input*: Allow users to specify the quantity of each grocery item.
 
 
 #### HomeScreen
